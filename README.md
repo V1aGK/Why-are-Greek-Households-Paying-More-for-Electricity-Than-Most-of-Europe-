@@ -3,7 +3,7 @@
 
 This repository contains the data, analysis, and visuals supporting the article:  
 **“Why Are Greek Households Paying More for Electricity Than Most of Europe?”**  
-Published on [Medium](#) (link coming soon).
+Published on [Medium](https://medium.com/@kastasevangelos/why-are-greek-households-paying-more-for-electricity-than-most-of-europe-b48ccac2929f).
 
 ---
 
